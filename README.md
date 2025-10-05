@@ -1,5 +1,6 @@
 # fibonacci
-[![Build Status](https://queenlike-uncombinably-marco.ngrok-free.dev/buildStatus/icon?job=pipline-fibonacci)](https://queenlike-uncombinably-marco.ngrok-free.dev/job/pipline-fibonacci/)
+[Build Status](https://queenlike-uncombinably-marco.ngrok-free.dev/buildStatus/text?job=pipline-fibonacci)
+
 
 
 
