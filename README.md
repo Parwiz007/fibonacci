@@ -1,5 +1,6 @@
 # fibonacci
-[![Build Status](http://localhost:8080/buildStatus/icon?job=pipline-fibonacci)](http://localhost:8080/job/pipline-fibonacci/)
+[![Build Status](https://queenlike-uncombinably-marco.ngrok-free.dev/buildStatus/icon?job=pipline-fibonacci)](https://queenlike-uncombinably-marco.ngrok-free.dev/job/pipline-fibonacci/)
+
 
 03_03 Run scripts from the pipeline
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
